@@ -14,7 +14,7 @@ def main():
     Objective: To print a right triangle of n asterisks comprising of four lines.
     '''
     #Approach: Use rightTriangle() function.
-    rightTriangle()
+    rightTriangle() 
 
 if __name__=='__main__':
     main()
