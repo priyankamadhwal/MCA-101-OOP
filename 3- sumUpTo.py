@@ -8,6 +8,6 @@ def sumUpTo(n):
     '''
     # Approach: sumUpTo(n) = n + sumUpTo(n-1)
     if n == 0:
-        return 0
+        return 0 
     else:
         return n + sumUpTo(n-1)
