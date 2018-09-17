@@ -8,6 +8,6 @@ def sumListElements(L):
     '''
     # Approach: sumListElements(L) = L[0] + sumListElements(L[1:])
     if L == []:
-        return 0;
+        return 0; 
     else:
         return L[0] + sumListElements(L[1:])
