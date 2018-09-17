@@ -14,7 +14,7 @@ def main():
     Objective: To print an equilateral triangle of n asterisks comprising of four lines.
     '''
     #Approach: Use equiTriangle() function.
-    equiTriangle()
+    equiTriangle() 
 
 if __name__=='__main__':
     main()
