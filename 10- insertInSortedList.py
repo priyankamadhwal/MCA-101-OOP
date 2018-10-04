@@ -1,7 +1,7 @@
 def insertInSortedList(lst, val, tryLoc=0):
     '''
     OBJECTIVE: To insert an element in a sorted list.
-    INPUTS:
+    INPUTS: 
          lst: A sorted list.
          val: Any number which is to be inserted in the list l.
          tryLoc: A try location in the lst where val can be inserted.  
