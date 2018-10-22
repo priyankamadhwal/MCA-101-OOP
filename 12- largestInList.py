@@ -22,7 +22,7 @@ def largestInList(l):
     '''
     #APPROACH: Use max() function to find largest element.
     if l == []:
-        print("Invalid list!")
+        print("Invalid list!") 
     elif len(l) == 1:
         return l[0]
     else:
