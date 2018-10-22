@@ -22,7 +22,7 @@ def bubbleSort(lst, lowerIndex=0):
     '''
     OBJECTIVE : To sort the given list using bubble sort.
     INPUT     :
-        lst        : A list of numbers.
+        lst        : A list of numbers. 
         lowerIndex : The lower index from which sorting should begin.
     OUTPUT    : List, sorted in descending order.
     '''
